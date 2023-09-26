@@ -1,0 +1,11 @@
+{
+  "name": "cucumber-test",
+  "version": "1.0.0",
+  "description": "Cucumber Test",
+  "scripts": {
+    "test": "cucumber-js"
+  },
+  "devDependencies": {
+    "cucumber": "^6.0.7"
+  }
+}
